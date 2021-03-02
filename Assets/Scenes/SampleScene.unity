@@ -644,9 +644,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8a88eba29ba3074ea253acb7b29a441, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  compose_effect: {fileID: 8300000, guid: e3fd276a3f409994b90c8cca0c53f67e, type: 3}
-  flow_effect: {fileID: 8300000, guid: 7015699c1a422cc47a8035e6ed627fca, type: 3}
-  beats_effect: {fileID: 8300000, guid: be4c315092624804fa10ca1b0028539e, type: 3}
   _mAudioSource: []
 --- !u!82 &480180484
 AudioSource:

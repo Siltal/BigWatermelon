@@ -78,11 +78,7 @@ public class Game : MonoBehaviour
             Fruit.half = true;
         else
         {
-            
-            
-          
-                soundPlayer.compose_play();
-            
+            soundPlayer.compose_play();
             ScoreText.AddScore(self.addScore);
             Destroy(self.gameObject);
             Destroy(other.gameObject);
